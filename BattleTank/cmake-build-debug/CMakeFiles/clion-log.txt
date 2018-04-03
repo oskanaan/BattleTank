@@ -1,0 +1,4 @@
+/opt/clion/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/clang -DCMAKE_CXX_COMPILER=/usr/bin/clang++ -G "CodeBlocks - Unix Makefiles" /home/kanaano/personal/unreal-projects/BattleTank/BattleTank
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kanaano/personal/unreal-projects/BattleTank/BattleTank/cmake-build-debug
